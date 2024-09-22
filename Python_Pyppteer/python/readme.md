@@ -1,4 +1,4 @@
-Here is a more detailed `README.md` for your three scripts: **foreignfortune.py**, **lechocolat.py**, and **traderjoes.py**, including technical explanations, how the scripts work, and potential customizations.
+ `README.md` for scripts: **foreignfortune.py**, **lechocolat.py**, and **traderjoes.py**, .
 
 ```markdown
 # E-commerce Web Scraping Suite
